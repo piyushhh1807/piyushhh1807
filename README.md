@@ -22,7 +22,7 @@ I'm a passionate Student who loves building innovative solutions and contributin
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python , Flask App, Python Libraries ,Machine Learning, Streamlit Python, Web Development, APIs, Cloud**
 - 📫 How to reach me: **2023563130.piyush@ug.sharda.ac.in**
-- ⚡ Fun fact: **Training Machine Learning**
+- ⚡ Fun fact: **I Like Training Machine Learning Models**
 
 ## 🛠️ Tech Stack
 
