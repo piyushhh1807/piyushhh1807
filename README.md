@@ -17,12 +17,11 @@
 
 I'm a passionate Student who loves building innovative solutions and contributing to open source. I specialize in creating scalable applications and exploring cutting-edge technologies.
 
-- 🔭 I'm currently working on **Machine Learning Projects **
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python , Flask App, Python Libraries ,Machine Learning, Streamlit Python, Web Development, APIs, Cloud**
-- 📫 How to reach me: **2023563130.piyush@ug.sharda.ac.in**
-- ⚡ Fun fact: **I Like Training Machine Learning Models**
+- 🔭 I'm currently working on Data Science & Machine Learning Projects 
+- 👯 I'm looking to collaborate on Open Source Projects
+- 💬 Ask me about Python , Flask App, Python Libraries ,Machine Learning, Streamlit Python, Web Development, APIs, Cloud
+- 📫 How to reach me: 2023563130.piyush@ug.sharda.ac.in
+- ⚡ Fun fact: **I Like Training Machine Learning Models and building real-life applications**
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +59,7 @@ I'm a passionate Student who loves building innovative solutions and contributin
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyush1807&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyush1807&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushhh1807&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1807&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9)
 
@@ -70,7 +69,7 @@ I'm a passionate Student who loves building innovative solutions and contributin
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KamilNeyazi2010&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=piyushhh1807&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7)
   
 </div>
 
@@ -78,7 +77,7 @@ I'm a passionate Student who loves building innovative solutions and contributin
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KamilNeyazi2010&theme=github-compact&hide_border=true&bg_color=0D1117&color=3FB950&line=3FB950&point=58A6FF)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyushhh1807&theme=github-compact&hide_border=true&bg_color=0D1117&color=3FB950&line=3FB950&point=58A6FF)
   
 </div>
 
@@ -86,7 +85,7 @@ I'm a passionate Student who loves building innovative solutions and contributin
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_REPO_1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/YOUR_USERNAME/PROJECT_REPO_1)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_REPO_1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/piyushhh1807/PROJECT_REPO_1)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_REPO_2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/YOUR_USERNAME/PROJECT_REPO_2)
 
 </div>
