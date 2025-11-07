@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3FB950&center=true&vCenter=true&random=false&width=600&lines=B.Tech+CSE+Student+%F0%9F%9A%80;Data+Science+Enthusiast+%F0%9F%8C%9F;Web+Developer+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%93%9A)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3FB950&center=true&vCenter=true&random=false&width=600&lines=B.Tech+CSE+Student+%F0%9F%9A%80;Data+Science+Enthusiast+%F0%9F%8C%9F;Web+Developer+%F0%9F%8C%9F;Machine+Learning+%F0%9F%93%9A)
   
 </div>
 
