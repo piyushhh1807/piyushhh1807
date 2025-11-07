@@ -21,7 +21,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 - 🌱 I'm currently learning **[Technologies you're learning]**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, APIs, Cloud**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **lelha@lelha.com**
 - ⚡ Fun fact: **[Something interesting about you]**
 
 ## 🛠️ Tech Stack
