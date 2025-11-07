@@ -8,6 +8,13 @@
 
 ## 🚀 About Me
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif" style="width: 350px; height: auto;" >
+</picture>
+
+
 I'm a passionate developer who loves building innovative solutions and contributing to open source. I specialize in creating scalable applications and exploring cutting-edge technologies.
 
 - 🔭 I'm currently working on **[Your Current Project]**
@@ -115,7 +122,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=KamilNeyazi2010&color=3FB950&style=for-the-badge&label=PROFILE+VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=piyushhh1807&color=3FB950&style=for-the-badge&label=PROFILE+VIEWS)
   
 </div>
 
@@ -125,6 +132,6 @@ I'm a passionate developer who loves building innovative solutions and contribut
   
   ### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
   
-  ⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+  ⭐️ From https://github.com/piyushhh1807
   
 </div>
