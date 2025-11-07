@@ -58,11 +58,11 @@ I'm a passionate Student who loves building innovative solutions and contributin
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamilNeyazi2010&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyush1807&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KamilNeyazi2010&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyush1807&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilNeyazi2010&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1807&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9)
 
 </div>
 
