@@ -15,22 +15,22 @@
 </picture>
 
 
-I'm a passionate developer who loves building innovative solutions and contributing to open source. I specialize in creating scalable applications and exploring cutting-edge technologies.
+I'm a passionate Student who loves building innovative solutions and contributing to open source. I specialize in creating scalable applications and exploring cutting-edge technologies.
 
-- 🔭 I'm currently working on **[Your Current Project]**
+- 🔭 I'm currently working on **Machine Learning Projects **
 - 🌱 I'm currently learning **[Technologies you're learning]**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, APIs, Cloud**
-- 📫 How to reach me: **lelha@lelha.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 💬 Ask me about **Python , Flask App, Python Libraries ,Machine Learning, Streamlit Python, Web Development, APIs, Cloud**
+- 📫 How to reach me: **2023563130.piyush@ug.sharda.ac.in**
+- ⚡ Fun fact: **Training Machine Learning**
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
