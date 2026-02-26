@@ -6,7 +6,7 @@
   
 </div>
 
-## 🚀 About Me
+## 🚀 About Me     
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
